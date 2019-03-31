@@ -1,2 +1,0 @@
-this is a previous version file in master
-this line has been added  file4 in branch1
