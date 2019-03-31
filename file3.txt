@@ -1,5 +1,0 @@
-this is a new version file in branch1
-this line has been added  file in master
-this line has been added  file4 in branch1
-line added in branch1 in file3
-line added in master in file3
